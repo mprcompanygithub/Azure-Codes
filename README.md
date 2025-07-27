@@ -199,4 +199,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-Thanks for following along! For a visual walkthrough, check out the related YouTube video (https://www.youtube.com/@MaskyBoiiiiii).
+Thanks for following along! For a visual walkthrough, check out the related YouTube video (https://youtu.be/5teoctSyfX4).
